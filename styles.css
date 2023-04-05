@@ -1,0 +1,33 @@
+#Header {
+    padding: 20px;
+    text-align: center;
+    background-color: cyan;
+    border: 2px solid black;
+}
+
+#NumberOne {
+    padding: 20px;
+    background-color: aqua; 
+    width: 100px;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    border: 2px solid black;
+}
+
+#NumberTwo {
+    padding: 20px;
+    background-color: aqua; 
+    width: 100px;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    border: 2px solid black;
+}
+
+#NumberThree {
+    padding: 20px;
+    background-color: aqua; 
+    width: 100px;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    border: 2px solid black;
+}
